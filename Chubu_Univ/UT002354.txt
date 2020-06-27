@@ -1,7 +1,7 @@
 ACCESSION: UT002354
 RECORD_TITLE: Phosphatidylcholine lyso 22:0; LC-ESI-ITFT; MS3; [M+CH3COO]-/[M-CH3]-; RT: 10.68; Exp: 2
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylcholine lyso 22:0
@@ -34,8 +34,8 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M+CH3COO]-/[M-CH3]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-000i-0009000000-09f0710aecfecb7cb4f4
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  339.09 1 [fa(22:0)-H]- 339.3263056245 -695 C22H43O2-
   223.90 1 [lyso_PC(lyso,-)-H2O]- 224.0687841072 -752 C7H15NO5P-
+  339.09 1 [fa(22:0)-H]- 339.3263056245 -695 C22H43O2-
 PK$NUM_PEAK: 3
 PK$PEAK: m/z int. rel.int.
   223.90 27.3 84

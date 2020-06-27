@@ -1,7 +1,7 @@
 ACCESSION: UT001226
 RECORD_TITLE: Phosphatidylinositol 16:0-20:5; LC-ESI-ITFT; MS2; [M-H]-; RT: 10.75; Exp: 1
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylinositol 16:0-20:5
@@ -33,10 +33,10 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0udl-0034190000-d30a01a15dbe024fd67a
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  571.22 1 [lyso_PI(16:0,-)]- 571.288338516 -119 C25H48O12P-
-  553.00 1 [lyso_PI(16:0,-)-H2O]- 553.2777738297 -501 C25H46O11P-
-  301.41 1 [fa(20:5)-H]- 301.2167551751 642 C20H29O2-
   255.09 1 [fa(16:0)-H]- 255.2324052393 -557 C16H31O2-
+  301.41 1 [fa(20:5)-H]- 301.2167551751 642 C20H29O2-
+  553.00 1 [lyso_PI(16:0,-)-H2O]- 553.2777738297 -501 C25H46O11P-
+  571.22 1 [lyso_PI(16:0,-)]- 571.288338516 -119 C25H48O12P-
 PK$NUM_PEAK: 24
 PK$PEAK: m/z int. rel.int.
   240.86 29.2 111

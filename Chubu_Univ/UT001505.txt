@@ -1,7 +1,7 @@
 ACCESSION: UT001505
 RECORD_TITLE: Phosphatidylserine 18:1-22:0; LC-ESI-ITFT; MS2; [M-H]-; RT: 51.49; Exp: 1
 DATE: 2016.01.19 (Created 2010.05.07, modified 2013.05.16)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylserine 18:1-22:0
@@ -33,10 +33,10 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0a4i-0000000900-88148ddb7b27850f3e4e
 PK$ANNOTATION: m/z num type mass error(ppm) formula
+  281.32 1 [fa(18:1)-H]- 281.2480553035 256 C18H33O2-
+  475.09 1 [lyso_PS(-,22:0)-H2O]- 475.3188507834 -480 C25H48O6P-
   844.54 2 [PS(18:1,22:0)-H]- 844.6067595289 -78 C46H87NO10P-
   844.54 2 [PS(20:0,20:1)-H]- 844.6067595289 -78 C46H87NO10P-
-  475.09 1 [lyso_PS(-,22:0)-H2O]- 475.3188507834 -480 C25H48O6P-
-  281.32 1 [fa(18:1)-H]- 281.2480553035 256 C18H33O2-
 PK$NUM_PEAK: 13
 PK$PEAK: m/z int. rel.int.
   281.32 5.3 8

@@ -1,7 +1,7 @@
 ACCESSION: UT002856
 RECORD_TITLE: Phosphatidylethanolamine 18:1-20:5; LC-ESI-ITFT; MS2; [M-H]-; RT: 14.78; Exp: 3
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylethanolamine 18:1-20:5
@@ -33,11 +33,11 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0ue9-0079301000-317cb87e02eee8a7330f
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  480.32 1 [lyso_PE(-,20:5)-H2O]- 480.2514994997 143 C25H39NO6P-
-  478.02 1 [lyso_PE(18:1,-)]- 478.2933643144 -571 C23H45NO7P-
-  301.02 1 [fa(20:5)-H]- 301.2167551751 -652 C20H29O2-
-  281.12 1 [fa(18:1)-H]- 281.2480553035 -454 C18H33O2-
   257.19 1 [fa(20:5)-H-CO2]- 257.2269259309 -143 C19H29-
+  281.12 1 [fa(18:1)-H]- 281.2480553035 -454 C18H33O2-
+  301.02 1 [fa(20:5)-H]- 301.2167551751 -652 C20H29O2-
+  478.02 1 [lyso_PE(18:1,-)]- 478.2933643144 -571 C23H45NO7P-
+  480.32 1 [lyso_PE(-,20:5)-H2O]- 480.2514994997 143 C25H39NO6P-
 PK$NUM_PEAK: 17
 PK$PEAK: m/z int. rel.int.
   257.19 16.1 57

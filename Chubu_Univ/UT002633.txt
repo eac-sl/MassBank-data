@@ -1,7 +1,7 @@
 ACCESSION: UT002633
 RECORD_TITLE: Phosphatidylethanolamine 22:6-22:6; LC-ESI-ITFT; MS2; [M-H]-; RT: 9.79; Exp: 3
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylethanolamine 22:6-22:6
@@ -34,8 +34,8 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-00c0-0059050000-4e2cf8c779848379391c
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  327.09 1 [fa(22:6)-H]- 327.2324052393 -434 C22H31O2-
   283.10 1 [fa(22:6)-H-CO2]- 283.2425759951 -502 C21H31-
+  327.09 1 [fa(22:6)-H]- 327.2324052393 -434 C22H31O2-
 PK$NUM_PEAK: 13
 PK$PEAK: m/z int. rel.int.
   256.71 5.4 14

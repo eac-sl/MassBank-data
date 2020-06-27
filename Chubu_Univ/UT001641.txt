@@ -1,7 +1,7 @@
 ACCESSION: UT001641
 RECORD_TITLE: Sphingomyelin d18:2-C16:0; LC-ESI-ITFT; MS3; [M+CH3COO]-/[M-CH3]-; RT: 13.64; Exp: 1
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Sphingomyelin d18:2-C16:0
@@ -34,8 +34,8 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M+CH3COO]-/[M-CH3]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0002-0000980000-743c8b0b973b5ac06d26
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  447.15 1 [lyso_SM(18:2,-)]- 447.2987840433 -332 C22H44N2O5P-
   429.39 1 [lyso_SM(18:2,-)-H2O]- 429.288219357 237 C22H42N2O4P-
+  447.15 1 [lyso_SM(18:2,-)]- 447.2987840433 -332 C22H44N2O5P-
 PK$NUM_PEAK: 3
 PK$PEAK: m/z int. rel.int.
   429.39 15.7 556

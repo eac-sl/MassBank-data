@@ -1,7 +1,7 @@
 ACCESSION: UT001220
 RECORD_TITLE: Phosphatidylglyceride 22:6-22:5; LC-ESI-ITFT; MS2; [M-H]-; RT: 7.06; Exp: 1
 DATE: 2016.01.19 (Created 2010.05.07, modified 2013.05.16)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylglyceride 22:6-22:5
@@ -33,10 +33,10 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-004i-0049010000-22155a8c6744a9dc7c6a
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  557.14 1 [lyso_PG(-,22:5)]- 557.2879445855 -264 C28H46O9P-
-  329.00 1 [fa(22:5)-H]- 329.2480553035 -752 C22H33O2-
-  326.99 1 [fa(22:6)-H]- 327.2324052393 -740 C22H31O2-
   285.07 1 [fa(22:5)-H-CO2]- 285.2582260593 -659 C21H33-
+  326.99 1 [fa(22:6)-H]- 327.2324052393 -740 C22H31O2-
+  329.00 1 [fa(22:5)-H]- 329.2480553035 -752 C22H33O2-
+  557.14 1 [lyso_PG(-,22:5)]- 557.2879445855 -264 C28H46O9P-
 PK$NUM_PEAK: 7
 PK$PEAK: m/z int. rel.int.
   282.76 12.5 137

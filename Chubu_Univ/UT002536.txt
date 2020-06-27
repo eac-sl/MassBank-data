@@ -1,7 +1,7 @@
 ACCESSION: UT002536
 RECORD_TITLE: Phosphatidylcholine alkenyl 16:0-16:0; LC-ESI-ITFT; MS2; [M+CH3COO]-; RT: 30.91; Exp: 3
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylcholine alkenyl 16:0-16:0
@@ -34,10 +34,10 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M+CH3COO]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0fvi-0038900500-45953bb4b778f78bb9b8
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  702.76 1 [PC(alkenyl-16:0,16:0)-CH3]- 702.5437653416 308 C39H77NO7P-
-  684.64 1 [PC(alkenyl-16:0,16:0)-CH3-H2O]- 684.5332006553 156 C39H75NO6P-
-  464.34 1 [lyso_PC(alkenyl-16:0,-)]- 464.3140997565 56 C23H47NO6P-
   446.33 1 [lyso_PC(alkenyl-16:0,-)-H2O]- 446.3035350702 59 C23H45NO5P-
+  464.34 1 [lyso_PC(alkenyl-16:0,-)]- 464.3140997565 56 C23H47NO6P-
+  684.64 1 [PC(alkenyl-16:0,16:0)-CH3-H2O]- 684.5332006553 156 C39H75NO6P-
+  702.76 1 [PC(alkenyl-16:0,16:0)-CH3]- 702.5437653416 308 C39H77NO7P-
 PK$NUM_PEAK: 25
 PK$PEAK: m/z int. rel.int.
   254.70 8.7 16

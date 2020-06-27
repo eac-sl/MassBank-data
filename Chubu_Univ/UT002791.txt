@@ -1,7 +1,7 @@
 ACCESSION: UT002791
 RECORD_TITLE: Phosphatidylcholine 18:1-22:6; LC-ESI-ITFT; MS2; [M+CH3COO]-; RT: 16.10; Exp: 3
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylcholine 18:1-22:6
@@ -33,10 +33,10 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M+CH3COO]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-014i-0000000090-6055439230d85bd6b764
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  890.87 1 [PC(18:1,22:6)+CH3COO]- 890.5911094647 313 C50H85NO10P-
-  816.73 1 [PC(18:1,22:6)-CH3]- 816.5543300279 215 C47H79NO8P-
-  327.11 1 [fa(22:6)-H]- 327.2324052393 -373 C22H31O2-
   283.28 1 [fa(22:6)-H-CO2]- 283.2425759951 132 C21H31-
+  327.11 1 [fa(22:6)-H]- 327.2324052393 -373 C22H31O2-
+  816.73 1 [PC(18:1,22:6)-CH3]- 816.5543300279 215 C47H79NO8P-
+  890.87 1 [PC(18:1,22:6)+CH3COO]- 890.5911094647 313 C50H85NO10P-
 PK$NUM_PEAK: 6
 PK$PEAK: m/z int. rel.int.
   283.28 8.4 9

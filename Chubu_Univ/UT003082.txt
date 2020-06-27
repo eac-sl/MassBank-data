@@ -1,7 +1,7 @@
 ACCESSION: UT003082
 RECORD_TITLE: Phosphatidylserine 18:0-20:3; LC-ESI-ITFT; MS3; [M-H]-/[M-C3H6NO2]-; RT: 34.12; Exp: 3
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 COMMENT: PRECURSOR_TYPE [M-H]-/[M-Ser]-
@@ -34,8 +34,8 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-/[M-C3H6NO2]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0159-0040900000-1821635d5ab7dbc69f14
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  437.03 1 [lyso_PS(18:0,-)]- 437.2668152129 -541 C21H42O7P-
   283.19 1 [fa(18:0)-H]- 283.2637053677 -259 C18H35O2-
+  437.03 1 [lyso_PS(18:0,-)]- 437.2668152129 -541 C21H42O7P-
 PK$NUM_PEAK: 6
 PK$PEAK: m/z int. rel.int.
   283.19 92.4 914

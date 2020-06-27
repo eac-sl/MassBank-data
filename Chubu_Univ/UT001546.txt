@@ -1,7 +1,7 @@
 ACCESSION: UT001546
 RECORD_TITLE: Phosphatidylcholine 16:1-22:6; LC-ESI-ITFT; MS3; [M+CH3COO]-/[M-CH3]-; RT: 10.94; Exp: 1
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylcholine 16:1-22:6
@@ -33,13 +33,13 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M+CH3COO]-/[M-CH3]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-004i-0089400000-4abdc715069ae50b5435
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  770.23 1 [PC(16:1,22:6)-CH3-H2O]- 770.5124652132 -366 C45H73NO7P-
-  534.02 1 [lyso_PC(-,22:6)-H2O]- 534.2984496923 -520 C29H45NO6P-
-  478.16 1 [lyso_PC(16:1,-)]- 478.2933643144 -278 C23H45NO7P-
-  460.21 1 [lyso_PC(16:1,-)-H2O]- 460.2827996281 -157 C23H43NO6P-
-  327.17 1 [fa(22:6)-H]- 327.2324052393 -190 C22H31O2-
-  283.19 1 [fa(22:6)-H-CO2]- 283.2425759951 -185 C21H31-
   253.04 1 [fa(16:1)-H]- 253.2167551751 -697 C16H29O2-
+  283.19 1 [fa(22:6)-H-CO2]- 283.2425759951 -185 C21H31-
+  327.17 1 [fa(22:6)-H]- 327.2324052393 -190 C22H31O2-
+  460.21 1 [lyso_PC(16:1,-)-H2O]- 460.2827996281 -157 C23H43NO6P-
+  478.16 1 [lyso_PC(16:1,-)]- 478.2933643144 -278 C23H45NO7P-
+  534.02 1 [lyso_PC(-,22:6)-H2O]- 534.2984496923 -520 C29H45NO6P-
+  770.23 1 [PC(16:1,22:6)-CH3-H2O]- 770.5124652132 -366 C45H73NO7P-
 PK$NUM_PEAK: 15
 PK$PEAK: m/z int. rel.int.
   242.35 16.7 31

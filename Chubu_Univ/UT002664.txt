@@ -1,7 +1,7 @@
 ACCESSION: UT002664
 RECORD_TITLE: Phosphatidylethanolamine lyso 16:0; LC-ESI-ITFT; MS2; [M-H]-; RT: 2.71; Exp: 3
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylethanolamine lyso 16:0
@@ -35,9 +35,9 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0a4i-0090000000-b91c8f9d0652ec3cd721
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  255.05 1 [fa(16:0)-H]- 255.2324052393 -714 C16H31O2-
-  213.96 1 [lyso_PE(lyso,-)]- 214.0480486651 -410 C5H13NO6P-
   195.76 1 [lyso_PE(lyso,-)-H2O]- 196.0374839788 -1414 C5H11NO5P-
+  213.96 1 [lyso_PE(lyso,-)]- 214.0480486651 -410 C5H13NO6P-
+  255.05 1 [fa(16:0)-H]- 255.2324052393 -714 C16H31O2-
 PK$NUM_PEAK: 11
 PK$PEAK: m/z int. rel.int.
   195.76 6.3 6

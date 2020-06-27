@@ -1,7 +1,7 @@
 ACCESSION: UT001622
 RECORD_TITLE: Phosphatidylserine 22:6-22:6; LC-ESI-ITFT; MS3; [M-H]-/[M-C3H6NO2]-; RT: 9.43; Exp: 1
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 COMMENT: PRECURSOR_TYPE [M-H]-/[M-Ser]-
@@ -34,11 +34,11 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-/[M-C3H6NO2]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-03di-0001900000-f4c58fc401da86178a27
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  481.30 2 [lyso_PS(-,22:6)]- 481.2355150845 134 C25H38O7P-
-  481.30 2 [lyso_PS(22:6,-)]- 481.2355150845 134 C25H38O7P-
+  327.29 1 [fa(22:6)-H]- 327.2324052393 176 C22H31O2-
   463.00 2 [lyso_PS(-,22:6)-H2O]- 463.2249503982 -485 C25H36O6P-
   463.00 2 [lyso_PS(22:6,-)-H2O]- 463.2249503982 -485 C25H36O6P-
-  327.29 1 [fa(22:6)-H]- 327.2324052393 176 C22H31O2-
+  481.30 2 [lyso_PS(-,22:6)]- 481.2355150845 134 C25H38O7P-
+  481.30 2 [lyso_PS(22:6,-)]- 481.2355150845 134 C25H38O7P-
 PK$NUM_PEAK: 3
 PK$PEAK: m/z int. rel.int.
   327.29 28.0 201

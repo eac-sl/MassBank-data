@@ -1,7 +1,7 @@
 ACCESSION: UT001983
 RECORD_TITLE: Phosphatidylinositol 19:0-20:4; LC-ESI-ITFT; MS2; [M-H]-; RT: 24.37; Exp: 2
 DATE: 2016.01.19 (Created 2010.05.07, modified 2011.08.03)
-AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo.
+AUTHORS: Taguchi R, Graduate School of Medicine, The University of Tokyo
 LICENSE: CC BY-NC-SA
 PUBLICATION: Taguchi, R.; Ishikawa, M. Precise and Global Identification of Phospholipid Molecular Species by an Orbitrap Mass Spectrometer and Automated Search Engine Lipid Search. Journal of Chromatography A 2010, 1217 (25), 4229–39. DOI:10.1016/j.chroma.2010.04.034
 CH$NAME: Phosphatidylinositol 19:0-20:4
@@ -33,12 +33,12 @@ MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
 MS$DATA_PROCESSING: WHOLE Xcalibur ver-2.0
 PK$SPLASH: splash10-0002-0090674000-337aae6927ed7845c2a7
 PK$ANNOTATION: m/z num type mass error(ppm) formula
-  619.07 1 [lyso_PI(-,20:4)]- 619.288338516 -352 C29H48O12P-
-  601.06 1 [lyso_PI(-,20:4)-H2O]- 601.2777738297 -361 C29H46O11P-
-  595.17 1 [lyso_PI(19:0,-)-H2O]- 595.3247240223 -259 C28H52O11P-
-  303.03 1 [fa(20:4)-H]- 303.2324052393 -666 C20H31O2-
-  297.05 1 [fa(19:0)-H]- 297.2793554319 -771 C19H37O2-
   259.09 1 [fa(20:4)-H-CO2]- 259.2425759951 -588 C19H31-
+  297.05 1 [fa(19:0)-H]- 297.2793554319 -771 C19H37O2-
+  303.03 1 [fa(20:4)-H]- 303.2324052393 -666 C20H31O2-
+  595.17 1 [lyso_PI(19:0,-)-H2O]- 595.3247240223 -259 C28H52O11P-
+  601.06 1 [lyso_PI(-,20:4)-H2O]- 601.2777738297 -361 C29H46O11P-
+  619.07 1 [lyso_PI(-,20:4)]- 619.288338516 -352 C29H48O12P-
 PK$NUM_PEAK: 19
 PK$PEAK: m/z int. rel.int.
   259.09 21.8 37
